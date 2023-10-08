@@ -5,8 +5,26 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:KBoard"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
-    <Grid>
-        
-    </Grid>
+        Title="KBoard" Height="450" Width="800">
+    <DockPanel>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition MinWidth="200" Width="*"/>
+                <ColumnDefinition MinWidth="200" Width="*"/>
+                <ColumnDefinition MinWidth="200" Width="*"/>
+            </Grid.ColumnDefinitions>
+            <ListBox x:Name="toDoColumn" Grid.Column="0" HorizontalAlignment="Stretch" ToolTip="This is were the tasks that need to be done will be">
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="ListBoxItem">
+                        <Setter Property="HorizontalContentAlignment" Value="Stretch"/>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+            </ListBox>
+            <GroupBox x:Name="inProgressColumn" Header="In Progess" Grid.Column="1" ToolTip="This is were the tasks that are being worked will be" Content="This is were the tasks that are being worked will be"/>
+            <GroupBox x:Name="doneColumn" Header="Done" ToolTip="This is were the tasks that are done will be" Grid.Column="2" Content="This is were the tasks that are done will be" Grid.ColumnSpan="1"/>
+        </Grid>
+    </DockPanel>
 </Window>

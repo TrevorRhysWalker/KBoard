@@ -16,14 +16,20 @@ using System.Windows.Shapes;
 namespace KBoard
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for TaskBox.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class TaskBox : UserControl
     {
-        public MainWindow()
+        private Task task;
+
+        public TaskBox(Task task)
         {
             InitializeComponent();
-            toDoColumn.FontSize = 24;
+            this.task = task;
+        }
+
+        private void TaskBox_MouseDoubleClick(object sender, MouseButtonEventArgs args)
+        {
             
         }
     }

@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\
+C:\Users\Trevor\source\repos\KBoard\KBoard\obj\Debug\
 KBoard
 none
 false
 DEBUG;TRACE
-C:\Users\Trevor\Source\Repos\KBoard\KBoard\App.xaml
-1219584333
+C:\Users\Trevor\source\repos\KBoard\KBoard\App.xaml
+2255838633
 
-51579654133
+61971674469
 13-1310406943
-MainWindow.xaml;
+MainWindow.xaml;TaskBox.xaml;
 
 True
 

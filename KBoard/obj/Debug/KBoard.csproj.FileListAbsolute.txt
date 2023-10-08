@@ -1,0 +1,17 @@
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\bin\Debug\KBoard.exe.config
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\bin\Debug\KBoard.exe
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\bin\Debug\KBoard.pdb
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.csproj.AssemblyReference.cache
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\MainWindow.g.cs
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\App.g.cs
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard_MarkupCompile.cache
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard_MarkupCompile.lref
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\MainWindow.baml
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.g.resources
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.Properties.Resources.resources
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.csproj.GenerateResource.cache
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.csproj.CoreCompileInputs.cache
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.exe
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\KBoard.pdb
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\TaskBox.g.cs
+C:\Users\Trevor\Source\Repos\KBoard\KBoard\obj\Debug\TaskBox.baml
